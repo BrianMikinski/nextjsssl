@@ -165,3 +165,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+/ssl/server.crt
+/ssl/server.key
