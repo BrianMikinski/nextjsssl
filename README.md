@@ -1,3 +1,6 @@
+## Update
+Recently updated for React 18! Happy Coding!
+
 ## The https://briangetsbinary.com nextjs https and localhost tutorial
 This repo is an example of configuring a [Next.js](https://nextjs.org/) application for https development on localhost usinga  windows development environment. It was bootstraped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
